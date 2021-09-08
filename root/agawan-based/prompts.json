@@ -1,0 +1,104 @@
+{
+    "c2array": true,
+    "size": [
+        2,
+        15,
+        1
+    ],
+    "data": [
+        [
+            [
+                "imm"
+            ],
+            [
+                "pos"
+            ],
+            [
+                "pos"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "pos"
+            ],
+            [
+                "pos"
+            ],
+            [
+                "pos"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "neg"
+            ],
+            [
+                "pos"
+            ]
+        ],
+        [
+            [
+                "Minigame Immunity! Hindi ka maglalaro ng minigame the next time na nakatapak ka sa property ng kalaban."
+            ],
+            [
+                "Nagbigay ng additional troops si Mayora sayo."
+            ],
+            [
+                "Nagtagumpay ang kampanya mo, kaya dumagdag ang supporters mo."
+            ],
+            [
+                "Oops! Meron kang nakaaway na tauhan mo."
+            ],
+            [
+                "Nakitang pagala-gala ang ilan sa mga tauhan mo."
+            ],
+            [
+                "Napagod na ang mga tauhan mo kakalakad sa board."
+            ],
+            [
+                "Magreretiro na ang mga tauhan mo."
+            ],
+            [
+                "Tinataksil ka na ng mga tauhan mo."
+            ],
+            [
+                "GIYERA!"
+            ],
+            [
+                "Sumama ang best friends mo, gusto nilang maging tauhan mo."
+            ],
+            [
+                "Job recruitment day!"
+            ],
+            [
+                "Tumaas ang halaga ng piso."
+            ],
+            [
+                "Bumaba ang halaga ng piso."
+            ],
+            [
+                "Nakatuklas ka ng mga espiya sa mga tauhan mo."
+            ],
+            [
+                "Umuulan! Ng dagdag tauhan?!"
+            ]
+        ]
+    ]
+}

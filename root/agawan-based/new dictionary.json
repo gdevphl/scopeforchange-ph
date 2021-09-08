@@ -1,0 +1,32 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "Red Base": 0,
+        "PR Jizal Avenue": 1,
+        "Itchi Avenue": 3,
+        "Hundred City Mall": 4,
+        "A Hostel": 5,
+        "Itchi Museum": 6,
+        "Mitochondria Mall": 8,
+        "Blessed Mari Church": 10,
+        "Itchi Science High School": 12,
+        "Itchi Park": 13,
+        "Itchi Community College": 14,
+        "Itchi Hospital": 15,
+        "Uncovered Basketball Court": 17,
+        "Green Base": 18,
+        "Alaya Underpass": 19,
+        "Crown Complex": 21,
+        "Groundmarque Department Store": 22,
+        "Alaya Museum": 23,
+        "Whitebird Tower": 24,
+        "Alaya Triangle": 26,
+        "Subway": 27,
+        "Aceldos Market": 28,
+        "Galepzi Active Park": 30,
+        "Jovial Jeep": 31,
+        "HTTP Tower": 32,
+        "Itchi Medical Center": 33,
+        "Itchi Coliseum": 35
+    }
+}
