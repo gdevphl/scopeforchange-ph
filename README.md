@@ -1,2 +1,2 @@
-# scopeforchange-ph
-http://www.scopeforchange.ph/
+# test-game.github.io
+A test html 5 gdev game
